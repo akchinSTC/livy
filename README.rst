@@ -1,6 +1,8 @@
 Welcome to Livy
 ===============
 
+.. image:: https://travis-ci.org/cloudera/livy.svg?branch=master
+
 Livy is an open source REST interface for interacting with `Apache Spark`_ from anywhere.
 It supports executing snippets of code or programs in a Spark context that runs locally or in `Apache Hadoop YARN`_.
 
